@@ -1,5 +1,5 @@
 from django.apps import AppConfig
-# test
+# test compuite
 
 class DanciConfig(AppConfig):
     name = 'danci'
